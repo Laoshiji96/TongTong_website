@@ -7,27 +7,23 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 230
 
-title: Skills
-subtitle:
+title: 语言
+subtitle: 雅思(学术类)： 7.0
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: '7.0'
+  name: 听力
+- description: '9.0'
+  name: 阅读
+- description: '6.0'
+  name: 口语
+- description: '6.0'
+  name: 写作
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

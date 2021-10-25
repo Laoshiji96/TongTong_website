@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 首页
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: 研究工作经历
+    url: '#experience'
     weight: 20
   - name: Projects
     url: '#projects'
