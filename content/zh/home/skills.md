@@ -7,9 +7,9 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 230
+weight: 190
 
-title: 语言
+title: 语言水平
 subtitle: 雅思(学术类)： 7.0
 
 # Showcase personal skills or business features.
@@ -26,10 +26,10 @@ feature:
   name: 写作
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+# - icon: ":smile:"
+#   icon_pack: "emoji"
+#   name: "Emojiness"
+#   description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
@@ -40,3 +40,5 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+<!-- # 雅思(学术类)： 7.0
+雅思(学术类): 7.0（听力: 7.0 阅读: 9.0 口语: 6.0 写作: 6.0） -->

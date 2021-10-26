@@ -73,4 +73,6 @@ highlight_name: true
 
 关注国际传播、公共关系以及数字平台视角下的公共传播/环境传播，也曾进行过品牌传播及媒介市场方面的研究项目。可承担新闻传播及广告公关等方向的理论及实践课程，也可承担传播学研究方法相关课程。
 
+I am a PhD candidate at the School of Journalism and Communication, Tsinghua University and a joint PhD candidate at the National University of Singapore. I have published several papers in CSSCI and other core journals. My research interests are centered on international communication and public communication under environmental issues.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

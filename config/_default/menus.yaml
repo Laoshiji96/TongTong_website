@@ -7,21 +7,24 @@ main:
   - name: 首页
     url: '#about'
     weight: 10
-  - name: 研究工作经历
-    url: '#experience'
+  - name: 已经发表论文
+    url: '#paper_publications'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: 科研及工作经历
+    url: '#experience'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  - name: 奖项
+    url: '#prize'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
+  # - name: Publications
+  #   url: '#featured'
+  #   weight: 50
+  - name: 联系方式
     url: '#contact'
-    weight: 60
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
